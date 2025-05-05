@@ -1,0 +1,1 @@
+{"installChannelUri":".\\ChannelManifest.json","channelUri":"https://aka.ms/vs/17/release/channel","installCatalogUri":".\\Catalog.json","channelId":"VisualStudio.17.Release","productId":"Microsoft.VisualStudio.Product.Community","addProductLang":["en-US"],"arch":"x64","config":".\\Layout.vsconfig"}
